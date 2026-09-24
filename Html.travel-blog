@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Travel Blog</title>
+</head>
+<body>
+    h1>Welcome to My Travel Blog</h1>
+
+    <p>Join me as I explore Kenya and share my experiences!</p>
+
+    <h2>Recent Adventures</h2>
+    <ul>
+        <li>Safari in Maasai Mara</li>
+        <li>Hiking Mount Kenya</li>
+        <li>Exploring Nairobi's Markets</li>
+    </ul>
+    h3>Photo Gallery</h3>
+    <div>
+        <img src="safari.jpg" alt="Safari in Maasai Mara" width="300">
+        <img src="mount_kenya.jpg" alt="Hiking Mount Kenya" width="300">
+        <img src="nairobi_market.jpg" alt="Exploring Nairobi's Markets" width="300">
+    </div>
+    
+
+
+</body>
+</html>
